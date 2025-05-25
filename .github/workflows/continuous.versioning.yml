@@ -1,6 +1,7 @@
 name: Version Changes to the Main Branch
 
-
+permissions:
+  contents: write
 
 on:
 
